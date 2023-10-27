@@ -8,18 +8,19 @@ Our project team consisted of [Mara Lampert](https://github.com/marabuuu) and [R
 
 ![](images/summary_pie.png)
 
-Most of these were Github issues and pull-requests, commonly supporting napari-plugin developers in enriching their documentation and making their napari-plugins work on other computers. Also, we assisted plugin developers in making their plugins interoperable with each other. In this way we contributed to about 30 napari plugins, the napari-core and the [napari-hub](https://napari-hub.org) website.
+We opened about 60 Github issues and 18 pull-requests, commonly supporting napari-plugin developers in enriching their documentation and making their napari-plugins work on other computers. Also, we assisted plugin developers in making their plugins interoperable with each other. In this way we contributed to about 30 napari plugins, the napari-core and the [napari-hub](https://napari-hub.org) website.
 
 ## Highlights
 
-Following our original goal, we provided napari-plugin documentation in form of blog-posts that show how to work with multiple napari-plugins together.
+Following our original goal, we provided napari-plugin documentation in form of blog-posts and videos that show how to work with multiple napari-plugins together.
 
 * [Rescaling images and Pixel Anisotropy](https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/)
 * [Annotating 3D images in Napari](https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/)
 * [Quality assurance of segmentation results](https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/)
 * [Feature extraction in Napari](https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/)
 * [Tracking in Napari](https://focalplane.biologists.com/2023/06/01/tracking-in-napari/)
-* 
+* [Bio-imaGE Analysis using Napari and Python (EMBO Practical Course, Video)](https://www.youtube.com/watch?v=QDS5t7oZH-c)
+
 ![img.png](images/blog_napari_3d_annotation.png)
 
 As life scientists in our local environment commonly struggle with installing napari, we also wrote a blog-post outlining how to do this:
