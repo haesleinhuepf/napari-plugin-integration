@@ -1,0 +1,103 @@
+Type,Url
+Workshop,https://github.com/LIBREhub/napari-LatAm-workshop-2023
+Lecture,https://github.com/BiAPoL/Bio-image_Analysis_with_Python
+Workshop,https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-GPU-Accelerated-Image-Analysis
+Workshop,https://github.com/BiAPoL/PoL-BioImage-Analysis-TS-Early-Career-Track
+Workshop,https://github.com/BiAPoL/Quantitative_Bio_Image_Analysis_with_Python_2022
+Workshop,https://github.com/BiAPoL/DIGS-BB_LM_Course_Bio-Image_Analysis_2022
+Workshop,https://github.com/BiAPoL/Image-data-science-with-Python-and-Napari-EPFL2022
+Workshop,https://github.com/BiAPoL/Pasteur-NEUBIAS-training-school-on-Bioimage-Analysis
+Blog-post,https://biapol.github.io/blog/mara_lampert/getting_started_with_mambaforge_and_python/readme.html
+Blog-post,https://focalplane.biologists.com/2023/06/01/tracking-in-napari/
+Blog-post,https://focalplane.biologists.com/2023/05/03/feature-extraction-in-napari/
+Blog-post,https://focalplane.biologists.com/2023/04/13/quality-assurance-of-segmentation-results/
+Blog-post,https://focalplane.biologists.com/2023/03/30/annotating-3d-images-in-napari/
+Blog-post,https://focalplane.biologists.com/2023/03/02/rescaling-images-and-pixel-anisotropy/
+Blog-post,https://focalplane.biologists.com/2023/04/30/scientific-data-analysis-user-documentation-101/
+Blog-post,https://focalplane.biologists.com/2023/05/06/if-you-license-it-itll-be-harder-to-steal-it-why-we-should-license-our-work/
+Blog-post,https://focalplane.biologists.com/2023/02/15/sharing-research-data-with-zenodo/
+Slides,https://f1000research.com/slides/12-972
+Slides,https://f1000research.com/slides/12-937
+Slides,https://f1000research.com/slides/12-587
+Slides,https://f1000research.com/slides/12-584
+Slides,https://f1000research.com/slides/12-573
+Slides,https://f1000research.com/slides/11-1351
+Video,https://www.youtube.com/watch?v=QDS5t7oZH-c
+Github issue,https://github.com/PolusAI/napari-nyxus/issues/3
+Github issue,https://github.com/andy-sweet/napari-metadata/issues/52
+Github issue,https://github.com/andy-sweet/napari-metadata/issues/51
+Github issue,https://github.com/andy-sweet/napari-metadata/issues/50
+Github issue,https://github.com/andy-sweet/napari-metadata/issues/49
+Github issue,https://github.com/andy-sweet/napari-metadata/issues/48
+Github issue,https://github.com/AllenCellModeling/napari-aicsimageio/issues/76
+Github issue,https://github.com/hanjinliu/napari-spreadsheet/issues/2
+Github issue,https://github.com/hanjinliu/napari-spreadsheet/issues/1
+Github issue,https://github.com/matplotlib/napari-matplotlib/issues/64
+Github pull-request,https://github.com/PolusAI/napari-nyxus/pull/6
+Github pull-request,https://github.com/kephale/napari-tyssue/pull/1
+Github issue,https://github.com/kephale/napari-tyssue/issues/4
+Github issue,https://github.com/kephale/napari-tyssue/issues/3
+Github issue,https://github.com/kephale/napari-tyssue/issues/2
+Github pull-request,https://github.com/juglab/napari-n2v/pull/14
+Github issue,https://github.com/juglab/napari-n2v/issues/6
+Github issue,https://github.com/juglab/napari-n2v/issues/5
+Github issue,https://github.com/juglab/napari-n2v/issues/4
+Github issue,https://github.com/juglab/napari-n2v/issues/3
+Github issue,https://github.com/juglab/napari-n2v/issues/2
+Github issue,https://github.com/juglab/napari-n2v/issues/1
+Github issue,https://github.com/rosalindfranklininstitute/RedLionfish/issues/13
+Github pull-request,https://github.com/SanderSMFISH/napari-buds/pull/2
+Github pull-request,https://github.com/SanderSMFISH/napari-buds/pull/1
+Github issue,https://github.com/napari-threedee/napari-threedee/issues/66
+Github issue,https://github.com/BodenmillerGroup/napari-roi/issues/4
+Github issue,https://github.com/glichtner/napari-pystackreg/issues/2
+Github issue,https://github.com/HelmholtzAI-Consultants-Munich/napari-organoid-counter/issues/3
+Github issue,https://github.com/bauerdavid/napari-nD-annotator/issues/32
+Github issue,https://github.com/ome/napari-ome-zarr/issues/67
+Github issue,https://github.com/napari/napari-animation/issues/122
+Github issue,https://github.com/brisvag/napari-help/issues/1
+Github pull-request,https://github.com/sebi06/napari-czann-segment/pull/4
+Github issue,https://github.com/sebi06/napari-czann-segment/issues/5
+Github pull-request,https://github.com/BioimageAnalysisCoreWEHI/napari_lattice/pull/4
+Github pull-request,https://github.com/BioimageAnalysisCoreWEHI/napari_lattice/pull/3
+Github pull-request,https://github.com/maweigert/napari-nlm/pull/1
+Github pull-request,https://github.com/royerloic/napari-nasa-samples/pull/2on
+Github issue,https://github.com/royerloic/napari-nasa-samples/issues/1
+Github issue,https://github.com/royerlab/napari-aydin/issues/9
+Github issue,https://github.com/royerlab/napari-aydin/issues/8
+Github issue,https://github.com/royerlab/napari-aydin/issues/7
+Github pull-request,https://github.com/royerlab/napari-aydin/pull/6
+Github issue,https://github.com/royerlab/napari-aydin/issues/5
+Github issue,https://github.com/chili-chiu/napari-bio-sample-data/issues/1
+Github pull-request,https://github.com/royerlab/napari-dexp/pull/12
+Github pull-request,https://github.com/PolarizedLightFieldMicroscopy/napari-LF/pull/6
+Github issue,https://github.com/lowe-lab-ucl/arboretum/issues/102
+Github issue,https://github.com/napari/cookiecutter-napari-plugin/issues/146
+Github pull-request,https://github.com/napari/cookiecutter-napari-plugin/pull/125
+Github issue,https://github.com/napari/npe2/issues/264
+Github pull-request,https://github.com/vispy/vispy/pull/2437
+Github issue,https://github.com/pyapp-kit/superqt/issues/100
+Github issue,https://github.com/napari/napari/issues/5261
+Github issue,https://github.com/napari/napari/issues/5705
+Github issue,https://github.com/napari/napari/issues/5253
+Github issue,https://github.com/napari/napari/issues/5247
+Github issue,https://github.com/napari/napari/issues/5228
+Github issue,https://github.com/napari/napari/issues/5206
+Github issue,https://github.com/napari/napari/issues/5205
+Github issue,https://github.com/napari/napari/issues/5203
+Github issue,https://github.com/napari/napari/issues/5201
+Github issue,https://github.com/napari/napari/issues/5200
+Github issue,https://github.com/napari/napari/issues/5166
+Github issue,https://github.com/napari/napari/issues/5165
+Github issue,https://github.com/napari/napari/issues/5162
+Github pull-request,https://github.com/napari/napari/pull/4790
+Github pull-request,https://github.com/chanzuckerberg/napari-hub-collections/pull/12
+Github pull-request,https://github.com/chanzuckerberg/napari-hub-collections/pull/30
+Github issue,https://github.com/chanzuckerberg/napari-hub/issues/850
+Github issue,https://github.com/chanzuckerberg/napari-hub/issues/909
+Github issue,https://github.com/chanzuckerberg/napari-hub/issues/649
+Github issue,https://github.com/chanzuckerberg/napari-hub/issues/611
+Github issue,https://github.com/chanzuckerberg/napari-hub/issues/603
+Github issue,https://github.com/napari/napari-graph/issues/6
+Github issue,https://github.com/stardist/stardist-napari/issues/23
+Github issue,https://github.com/bauerdavid/napari-nD-annotator/issues/43
